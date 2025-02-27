@@ -29,7 +29,7 @@ g++ black_scholes.cpp -o black_scholes -lm
 
 
 
-👨‍💻 Author
+### 👨‍💻 Author
 Aman Pal - Mathematics & Computing, B.Tech
 🔗 [Linkedin](https://www.linkedin.com/in/amanpal1586)
 
